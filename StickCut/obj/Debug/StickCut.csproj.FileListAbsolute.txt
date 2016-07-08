@@ -1,0 +1,5 @@
+c:\users\strombd\documents\visual studio 2015\Projects\StickCut\StickCut\bin\Debug\StickCut.exe
+c:\users\strombd\documents\visual studio 2015\Projects\StickCut\StickCut\bin\Debug\StickCut.pdb
+c:\users\strombd\documents\visual studio 2015\Projects\StickCut\StickCut\obj\Debug\StickCut.csprojResolveAssemblyReference.cache
+c:\users\strombd\documents\visual studio 2015\Projects\StickCut\StickCut\obj\Debug\StickCut.exe
+c:\users\strombd\documents\visual studio 2015\Projects\StickCut\StickCut\obj\Debug\StickCut.pdb
